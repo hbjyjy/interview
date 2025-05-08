@@ -1,4 +1,4 @@
-Write RESTful API with springboot3, use JPA to save it to database(Sqlite) table users
+Write RESTful API with springboot3, use JPA to save it to H2database table user
 1. POST /api/v1/users
 Request body example:
 {
